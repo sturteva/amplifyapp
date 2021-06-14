@@ -11,11 +11,6 @@
       "StackId": "arn:aws:cloudformation:us-east-2:105893586891:stack/amplify-amplifyapp-dev-205400/a52aa5a0-cd52-11eb-840d-02fbfa560ae8",
       "AmplifyAppId": "d2i1hokasi0zfr",
       "AuthTriggerTemplateURL": ""
-    },
-    "categories": {
-      "auth": {
-        "amplifyappbc7d8870": {}
-      }
     }
   },
   "staging": {
