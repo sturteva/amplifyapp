@@ -1,8 +1,5 @@
 {
-  "features": {   
-    "frontend-ios": {
-      "enablexcodeintegration": true
-    },
+  "features": {      
     "auth": {
       "enablecaseinsensitivity": true,
       "useinclusiveterminology": true,
